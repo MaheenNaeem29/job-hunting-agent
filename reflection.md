@@ -56,6 +56,6 @@ interview questions, a preparation plan, and application reminders.
 
 I built and tested this agent myself and understand all the submitted code.
 
-Student Name  : _____Maheen Naeem______________
-Roll Number   : ___________22f-3145________
-Date          : _________4/28/2026__________
+Student Name  : Maheen Naeem
+Roll Number   : 22f-3145
+Date          : 4/28/2026

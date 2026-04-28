@@ -127,6 +127,6 @@ Edit `tracker/applications.csv` directly to update your application statuses.
 
 ## Author
 
-Student Name: ______Maheen Naeem_____________
-Roll Number: ______22f-3145_____________
+Student Name: Maheen Naeem
+Roll Number: 22f-3145
 Course: Agentic AI Lab
