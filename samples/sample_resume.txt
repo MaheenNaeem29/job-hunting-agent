@@ -1,0 +1,33 @@
+NAME: Ali Ahmed
+EMAIL: ali.ahmed@email.com
+PHONE: +92-300-1234567
+GITHUB: github.com/ali-ahmed
+LINKEDIN: linkedin.com/in/ali-ahmed
+
+EDUCATION:
+BS Computer Science — FAST NUCES Lahore
+Expected Graduation: 2027 | Current GPA: 3.4
+
+SKILLS:
+Programming   : Python, OOP, basic SQL
+Libraries     : pandas, NumPy, Jupyter Notebook
+Tools         : GitHub, Git, VS Code
+Soft Skills   : Communication, Teamwork, Problem Solving
+
+PROJECTS:
+1. Student Grade Predictor (Python + pandas)
+   - Built a regression model to predict student grades
+   - Preprocessed data using pandas and numpy
+   - Pushed full project to GitHub with README
+
+2. Expense Tracker App (Python)
+   - Command-line app to track monthly expenses
+   - Used CSV files for data storage
+   - Clean, documented code with OOP structure
+
+CERTIFICATIONS:
+- Python for Everybody — Coursera (2025)
+- Introduction to Machine Learning — Google (2025)
+
+LANGUAGES:
+Urdu (native), English (professional)

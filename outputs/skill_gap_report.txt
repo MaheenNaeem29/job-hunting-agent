@@ -1,0 +1,40 @@
+
+=======================================================
+  SKILL GAP REPORT
+=======================================================
+Generated : 2026-04-28 14:10
+
+Match Score : 73.3%
+Progress    : [██████████████░░░░░░]
+
+──────────────────────────────
+  Matched Skills (11) ✔
+──────────────────────────────
+  + python
+  + machine learning
+  + github
+  + git
+  + sql
+  + communication
+  + problem solving
+  + pandas
+  + numpy
+  + deep learning
+  + tensorflow
+
+──────────────────────────────
+  Missing Skills (4) ✘
+──────────────────────────────
+  - data preprocessing
+  - flask
+  - streamlit
+  - jupyter
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total Job Skills Required : 15
+  Skills You Already Have   : 11
+  Skills You Are Missing    : 4
+  Your Match Score          : 73.3%
+  Recommendation            : Apply

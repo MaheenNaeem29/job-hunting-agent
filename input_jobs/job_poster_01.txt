@@ -1,0 +1,32 @@
+Company: ABC Tech Pvt. Ltd.
+Location: Lahore, Pakistan
+Role: Junior AI Engineer Intern
+Type: Internship (3 months)
+
+About the Role:
+We are looking for a motivated Junior AI Engineer Intern to join our
+growing data and AI team. You will work on real-world machine learning
+projects, help preprocess datasets, and collaborate with senior engineers.
+
+Required Skills:
+- Python (intermediate level)
+- Machine Learning fundamentals
+- Data preprocessing with pandas and numpy
+- GitHub for version control
+- SQL basics
+- Communication and problem solving
+
+Preferred Skills:
+- Deep learning (TensorFlow or PyTorch)
+- Flask or Streamlit for deployment
+- Jupyter Notebook experience
+
+Responsibilities:
+- Build and test machine learning models
+- Clean and preprocess datasets using pandas
+- Document code and push to GitHub
+- Attend weekly team meetings and present progress
+
+How to Apply:
+Send your resume and GitHub profile to careers@abctech.com
+Deadline: 2026-05-10

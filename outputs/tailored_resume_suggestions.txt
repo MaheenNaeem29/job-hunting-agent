@@ -1,0 +1,38 @@
+
+=======================================================
+  TAILORED RESUME SUGGESTIONS
+=======================================================
+Generated : 2026-04-28 14:10
+
+Recommended Resume Improvements:
+────────────────────────────────────────
+  • Add strong evidence of 'python' in your resume.
+  • Add strong evidence of 'machine learning' in your resume.
+  • Add strong evidence of 'data preprocessing' in your resume.
+  • Add strong evidence of 'github' in your resume.
+  • Add strong evidence of 'git' in your resume.
+  • Add strong evidence of 'sql' in your resume.
+  • Add strong evidence of 'communication' in your resume.
+  • Add strong evidence of 'problem solving' in your resume.
+  • Add strong evidence of 'pandas' in your resume.
+  • Add strong evidence of 'numpy' in your resume.
+  • Add strong evidence of 'deep learning' in your resume.
+  • Add strong evidence of 'flask' in your resume.
+  • Add strong evidence of 'streamlit' in your resume.
+  • Add strong evidence of 'jupyter' in your resume.
+  • Add strong evidence of 'tensorflow' in your resume.
+
+Suggested Resume Bullet Points:
+────────────────────────────────────────
+  • Developed Python-based projects with clean, documented code.
+  • Managed source code using Git and GitHub with regular commits.
+  • Applied data analysis techniques using pandas and NumPy.
+  • Solved real-world problems through structured thinking.
+  • Collaborated in team environments and delivered on deadlines.
+
+Priority Skills to Learn Before Applying:
+────────────────────────────────────────
+  ⚠  data preprocessing
+  ⚠  flask
+  ⚠  streamlit
+  ⚠  jupyter

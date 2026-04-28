@@ -1,0 +1,45 @@
+INTERVIEW PREPARATION NOTES
+Course: Agentic AI / Introduction to AI Engineering
+
+--- TECHNICAL CONCEPTS ---
+
+Machine Learning is a subset of Artificial Intelligence that enables systems
+to learn patterns from data without being explicitly programmed.
+
+Supervised Learning uses labelled data to train models. Common algorithms
+include Linear Regression, Decision Trees, and Support Vector Machines.
+
+Python is the most widely used language for AI and data science due to its
+simplicity and the rich ecosystem of libraries like pandas, NumPy, and scikit-learn.
+
+pandas is a Python library for data manipulation and analysis. It provides
+DataFrames which allow easy data cleaning, filtering, and transformation.
+
+NumPy provides support for large multi-dimensional arrays and mathematical
+operations — it is the foundation of most scientific Python libraries.
+
+GitHub is a platform for version control using Git. Employers expect candidates
+to have a clean GitHub profile with documented projects.
+
+--- INTERVIEW TIPS ---
+
+Always explain your projects in 2 minutes using the STAR method:
+Situation, Task, Action, Result.
+
+Prepare at least 3 strong project examples before any technical interview.
+
+Research the company before the interview — understand their product,
+their tech stack, and recent news about them.
+
+Ask the interviewer at least 2 questions at the end — it shows genuine interest.
+
+--- BEHAVIOURAL TIPS ---
+
+Be honest about what you do not know. Saying "I am not sure but I would
+approach it like this" is better than guessing incorrectly.
+
+Show enthusiasm for learning — interviewers value growth mindset over
+perfect knowledge.
+
+Communication and teamwork are rated as highly as technical skills at
+most companies, especially for internship roles.

@@ -1,0 +1,88 @@
+
+=======================================================
+  INTERVIEW PREPARATION QUESTIONS
+=======================================================
+Generated : 2026-04-28 14:10
+
+Technical Questions (based on job requirements):
+────────────────────────────────────────
+  Q: What is python? Describe how you have used it.
+  Q: Give an example project where you applied python.
+
+  Q: What is machine learning? Describe how you have used it.
+  Q: Give an example project where you applied machine learning.
+
+  Q: What is data preprocessing? Describe how you have used it.
+  Q: Give an example project where you applied data preprocessing.
+
+  Q: What is github? Describe how you have used it.
+  Q: Give an example project where you applied github.
+
+  Q: What is git? Describe how you have used it.
+  Q: Give an example project where you applied git.
+
+  Q: What is sql? Describe how you have used it.
+  Q: Give an example project where you applied sql.
+
+  Q: What is communication? Describe how you have used it.
+  Q: Give an example project where you applied communication.
+
+  Q: What is problem solving? Describe how you have used it.
+  Q: Give an example project where you applied problem solving.
+
+  Q: What is pandas? Describe how you have used it.
+  Q: Give an example project where you applied pandas.
+
+  Q: What is numpy? Describe how you have used it.
+  Q: Give an example project where you applied numpy.
+
+  Q: What is deep learning? Describe how you have used it.
+  Q: Give an example project where you applied deep learning.
+
+  Q: What is flask? Describe how you have used it.
+  Q: Give an example project where you applied flask.
+
+  Q: What is streamlit? Describe how you have used it.
+  Q: Give an example project where you applied streamlit.
+
+  Q: What is jupyter? Describe how you have used it.
+  Q: Give an example project where you applied jupyter.
+
+  Q: What is tensorflow? Describe how you have used it.
+  Q: Give an example project where you applied tensorflow.
+
+HR & Behavioural Questions:
+────────────────────────────────────────
+  Q: Tell me about yourself.
+  Q: Why are you interested in this role?
+  Q: What is your greatest strength and weakness?
+  Q: Describe a challenge you faced and how you resolved it.
+  Q: Where do you see yourself in 3 years?
+  Q: Why should we select you over other candidates?
+
+Questions from Knowledge Base / Course Notes:
+────────────────────────────────────────
+  Q: How would you explain this concept in an interview?
+     → "FILE: interview_notes.txt"
+
+  Q: How would you explain this concept in an interview?
+     → "INTERVIEW PREPARATION NOTES"
+
+  Q: How would you explain this concept in an interview?
+     → "Course: Agentic AI / Introduction to AI Engineering"
+
+  Q: How would you explain this concept in an interview?
+     → "--- TECHNICAL CONCEPTS ---"
+
+  Q: How would you explain this concept in an interview?
+     → "Machine Learning is a subset of Artificial Intelligence that enables systems"
+
+  Q: How would you explain this concept in an interview?
+     → "to learn patterns from data without being explicitly programmed."
+
+  Q: How would you explain this concept in an interview?
+     → "Supervised Learning uses labelled data to train models. Common algorithms"
+
+  Q: How would you explain this concept in an interview?
+     → "include Linear Regression, Decision Trees, and Support Vector Machines."
+

@@ -1,0 +1,24 @@
+
+=======================================================
+  JOB ANALYSIS REPORT
+=======================================================
+Generated : 2026-04-28 14:10
+
+Total skills/keywords found in job posters: 15
+
+Detected Skills & Keywords:
+   1. python
+   2. machine learning
+   3. data preprocessing
+   4. github
+   5. git
+   6. sql
+   7. communication
+   8. problem solving
+   9. pandas
+  10. numpy
+  11. deep learning
+  12. flask
+  13. streamlit
+  14. jupyter
+  15. tensorflow

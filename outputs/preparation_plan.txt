@@ -1,0 +1,30 @@
+
+=======================================================
+  INTERVIEW PREPARATION PLAN
+=======================================================
+Generated : 2026-04-28 14:10
+
+Week 1 — Foundation Review:
+────────────────────────────────────────
+  • Revise and strengthen: python
+  • Revise and strengthen: machine learning
+  • Revise and strengthen: github
+  • Revise and strengthen: git
+  • Revise and strengthen: sql
+
+Week 2 — Gap Filling:
+────────────────────────────────────────
+  • Learn / improve: data preprocessing
+  • Learn / improve: flask
+  • Learn / improve: streamlit
+  • Learn / improve: jupyter
+
+Week 3 — Practice:
+────────────────────────────────────────
+  • Practice mock interviews with a friend.
+  • Prepare 2-minute project explanations.
+  • Review your resume line-by-line.
+  • Prepare questions to ask the interviewer.
+
+Current Readiness Score: 73.3%
+Target Score Before Applying: 70%+

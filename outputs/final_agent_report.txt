@@ -1,0 +1,271 @@
+CAREEPREP JOB-HUNTING AGENT — FULL REPORT
+Generated : 2026-04-28 14:10:15
+=======================================================
+
+=======================================================
+  JOB ANALYSIS REPORT
+=======================================================
+Generated : 2026-04-28 14:10
+
+Total skills/keywords found in job posters: 15
+
+Detected Skills & Keywords:
+   1. python
+   2. machine learning
+   3. data preprocessing
+   4. github
+   5. git
+   6. sql
+   7. communication
+   8. problem solving
+   9. pandas
+  10. numpy
+  11. deep learning
+  12. flask
+  13. streamlit
+  14. jupyter
+  15. tensorflow
+
+=======================================================
+  SKILL GAP REPORT
+=======================================================
+Generated : 2026-04-28 14:10
+
+Match Score : 73.3%
+Progress    : [██████████████░░░░░░]
+
+──────────────────────────────
+  Matched Skills (11) ✔
+──────────────────────────────
+  + python
+  + machine learning
+  + github
+  + git
+  + sql
+  + communication
+  + problem solving
+  + pandas
+  + numpy
+  + deep learning
+  + tensorflow
+
+──────────────────────────────
+  Missing Skills (4) ✘
+──────────────────────────────
+  - data preprocessing
+  - flask
+  - streamlit
+  - jupyter
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total Job Skills Required : 15
+  Skills You Already Have   : 11
+  Skills You Are Missing    : 4
+  Your Match Score          : 73.3%
+  Recommendation            : Apply
+
+=======================================================
+  TAILORED RESUME SUGGESTIONS
+=======================================================
+Generated : 2026-04-28 14:10
+
+Recommended Resume Improvements:
+────────────────────────────────────────
+  • Add strong evidence of 'python' in your resume.
+  • Add strong evidence of 'machine learning' in your resume.
+  • Add strong evidence of 'data preprocessing' in your resume.
+  • Add strong evidence of 'github' in your resume.
+  • Add strong evidence of 'git' in your resume.
+  • Add strong evidence of 'sql' in your resume.
+  • Add strong evidence of 'communication' in your resume.
+  • Add strong evidence of 'problem solving' in your resume.
+  • Add strong evidence of 'pandas' in your resume.
+  • Add strong evidence of 'numpy' in your resume.
+  • Add strong evidence of 'deep learning' in your resume.
+  • Add strong evidence of 'flask' in your resume.
+  • Add strong evidence of 'streamlit' in your resume.
+  • Add strong evidence of 'jupyter' in your resume.
+  • Add strong evidence of 'tensorflow' in your resume.
+
+Suggested Resume Bullet Points:
+────────────────────────────────────────
+  • Developed Python-based projects with clean, documented code.
+  • Managed source code using Git and GitHub with regular commits.
+  • Applied data analysis techniques using pandas and NumPy.
+  • Solved real-world problems through structured thinking.
+  • Collaborated in team environments and delivered on deadlines.
+
+Priority Skills to Learn Before Applying:
+────────────────────────────────────────
+  ⚠  data preprocessing
+  ⚠  flask
+  ⚠  streamlit
+  ⚠  jupyter
+
+=======================================================
+  INTERVIEW PREPARATION QUESTIONS
+=======================================================
+Generated : 2026-04-28 14:10
+
+Technical Questions (based on job requirements):
+────────────────────────────────────────
+  Q: What is python? Describe how you have used it.
+  Q: Give an example project where you applied python.
+
+  Q: What is machine learning? Describe how you have used it.
+  Q: Give an example project where you applied machine learning.
+
+  Q: What is data preprocessing? Describe how you have used it.
+  Q: Give an example project where you applied data preprocessing.
+
+  Q: What is github? Describe how you have used it.
+  Q: Give an example project where you applied github.
+
+  Q: What is git? Describe how you have used it.
+  Q: Give an example project where you applied git.
+
+  Q: What is sql? Describe how you have used it.
+  Q: Give an example project where you applied sql.
+
+  Q: What is communication? Describe how you have used it.
+  Q: Give an example project where you applied communication.
+
+  Q: What is problem solving? Describe how you have used it.
+  Q: Give an example project where you applied problem solving.
+
+  Q: What is pandas? Describe how you have used it.
+  Q: Give an example project where you applied pandas.
+
+  Q: What is numpy? Describe how you have used it.
+  Q: Give an example project where you applied numpy.
+
+  Q: What is deep learning? Describe how you have used it.
+  Q: Give an example project where you applied deep learning.
+
+  Q: What is flask? Describe how you have used it.
+  Q: Give an example project where you applied flask.
+
+  Q: What is streamlit? Describe how you have used it.
+  Q: Give an example project where you applied streamlit.
+
+  Q: What is jupyter? Describe how you have used it.
+  Q: Give an example project where you applied jupyter.
+
+  Q: What is tensorflow? Describe how you have used it.
+  Q: Give an example project where you applied tensorflow.
+
+HR & Behavioural Questions:
+────────────────────────────────────────
+  Q: Tell me about yourself.
+  Q: Why are you interested in this role?
+  Q: What is your greatest strength and weakness?
+  Q: Describe a challenge you faced and how you resolved it.
+  Q: Where do you see yourself in 3 years?
+  Q: Why should we select you over other candidates?
+
+Questions from Knowledge Base / Course Notes:
+────────────────────────────────────────
+  Q: How would you explain this concept in an interview?
+     → "FILE: interview_notes.txt"
+
+  Q: How would you explain this concept in an interview?
+     → "INTERVIEW PREPARATION NOTES"
+
+  Q: How would you explain this concept in an interview?
+     → "Course: Agentic AI / Introduction to AI Engineering"
+
+  Q: How would you explain this concept in an interview?
+     → "--- TECHNICAL CONCEPTS ---"
+
+  Q: How would you explain this concept in an interview?
+     → "Machine Learning is a subset of Artificial Intelligence that enables systems"
+
+  Q: How would you explain this concept in an interview?
+     → "to learn patterns from data without being explicitly programmed."
+
+  Q: How would you explain this concept in an interview?
+     → "Supervised Learning uses labelled data to train models. Common algorithms"
+
+  Q: How would you explain this concept in an interview?
+     → "include Linear Regression, Decision Trees, and Support Vector Machines."
+
+
+=======================================================
+  INTERVIEW PREPARATION PLAN
+=======================================================
+Generated : 2026-04-28 14:10
+
+Week 1 — Foundation Review:
+────────────────────────────────────────
+  • Revise and strengthen: python
+  • Revise and strengthen: machine learning
+  • Revise and strengthen: github
+  • Revise and strengthen: git
+  • Revise and strengthen: sql
+
+Week 2 — Gap Filling:
+────────────────────────────────────────
+  • Learn / improve: data preprocessing
+  • Learn / improve: flask
+  • Learn / improve: streamlit
+  • Learn / improve: jupyter
+
+Week 3 — Practice:
+────────────────────────────────────────
+  • Practice mock interviews with a friend.
+  • Prepare 2-minute project explanations.
+  • Review your resume line-by-line.
+  • Prepare questions to ask the interviewer.
+
+Current Readiness Score: 73.3%
+Target Score Before Applying: 70%+
+╔══════════════════════════════════════════════════════╗
+║         APPLICATION REMINDERS & ACTION PLAN          ║
+╚══════════════════════════════════════════════════════╝
+Generated : 2026-04-28
+Total Applications Tracked : 3
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ URGENT — INTERVIEW SCHEDULED
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Application ID  : APP-001
+  Company         : ABC Tech
+  Role            : Junior AI Engineer Intern
+  Interview Date  : 2026-05-03  (5 days away)
+  Follow-up Date  : 2026-05-06
+  Next Action     : Revise Python, ML basics, explain projects clearly
+  Tips            : Practice 2-minute project explanation. Research ABC Tech.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 APPLIED — AWAITING RESPONSE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Application ID  : APP-002
+  Company         : XYZ Solutions
+  Role            : Data Analyst Intern
+  Applied Date    : 2026-04-27
+  Follow-up Date  : 2026-05-04
+  Next Action     : Send a polite follow-up email if no response by 2026-05-04
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📌 PENDING — NOT APPLIED YET
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Application ID  : APP-003
+  Company         : DataVision
+  Role            : ML Research Intern
+  Next Action     : Tailor resume for ML role and apply this week
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Interview Scheduled : 1
+  Applied             : 1
+  Not Applied         : 1
+  Total               : 3
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SKILL MATCH SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Total Job Skills Required : 15
+  Skills You Already Have   : 11
+  Skills You Are Missing    : 4
+  Your Match Score          : 73.3%
+  Recommendation            : Apply with confidence!
